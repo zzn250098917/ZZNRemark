@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>image/behind.png</file>
+        <file>image/delete.png</file>
+        <file>image/enlarge.png</file>
+        <file>image/front.png</file>
+        <file>image/open.png</file>
+        <file>image/path.png</file>
+        <file>image/reduce.png</file>
+        <file>image/colors.png</file>
+        <file>image/about.png</file>
+        <file>image/logo.png</file>
+    </qresource>
+</RCC>
